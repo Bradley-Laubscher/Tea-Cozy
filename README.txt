@@ -1,0 +1,1 @@
+The materials for this website were given to me by the CodeCademy team and as tasked by them as part of my online course through the CodeCademy website, it was my duty to make a responsive website through the use of flexbox (which I had just learned and this was a way of practising flexbox). The result is this Tea-Cozy website
